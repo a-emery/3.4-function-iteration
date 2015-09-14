@@ -13,7 +13,6 @@ items.forEach(function(item) {
 
 console.log("The average cost for the items is $" + (totalPrice / items.length).toFixed(2));
 
-
 /*
 
 Examples
